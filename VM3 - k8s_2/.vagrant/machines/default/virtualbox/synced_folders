@@ -1,0 +1,1 @@
+{"rsync":{"/vagrant":{"type":"rsync","guestpath":"/vagrant","hostpath":"C:/Users/JONAS/Desktop/PB-DevSecOps/DevOps-Prat/VM3 - k8s_2","disabled":false,"__vagrantfile":true,"owner":"vagrant","group":"vagrant"}}}

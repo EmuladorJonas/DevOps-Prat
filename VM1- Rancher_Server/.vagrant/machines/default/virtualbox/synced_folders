@@ -1,0 +1,1 @@
+{"rsync":{"/vagrant":{"type":"rsync","guestpath":"/vagrant","hostpath":"C:/Users/JONAS/Desktop/PB-DevSecOps/DevOps-Prat/VM1- Rancher_Server","disabled":false,"__vagrantfile":true,"owner":"vagrant","group":"vagrant"}}}
